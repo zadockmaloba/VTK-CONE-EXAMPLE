@@ -1,0 +1,40 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x12\x00V\x00T\x00K\x00_\x00t\x00e\x00s\x00t\x002)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/zadock/projects/VTK_test2/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=vtk_test2
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x12\x00V\x00T\x00K\x00_\x00t\x00e\x00s\x00t\x002\x00\x00\x00\x12\x00v\x00t\x00k\x00_\x00t\x00e\x00s\x00t\x002)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/zadock/projects/VTK_test2
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=VTK_test2,vtk_test2
+Use External Terminal=false
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit

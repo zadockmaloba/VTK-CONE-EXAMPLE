@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zadock/projects/VTK_test2/main.cpp
+vtk-7.1/vtkAutoInit.h
+-
+iostream
+-
+vtk-7.1/vtkActor.h
+-
+vtk-7.1/vtkCamera.h
+-
+vtk-7.1/vtkCylinderSource.h
+-
+vtk-7.1/vtkConeSource.h
+-
+vtk-7.1/vtkNamedColors.h
+-
+vtk-7.1/vtkNew.h
+-
+vtk-7.1/vtkPolyDataMapper.h
+-
+vtk-7.1/vtkProperty.h
+-
+vtk-7.1/vtkRenderWindow.h
+-
+vtk-7.1/vtkRenderWindowInteractor.h
+-
+vtk-7.1/vtkRenderer.h
+-
+array
+-
+

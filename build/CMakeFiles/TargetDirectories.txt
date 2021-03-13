@@ -1,0 +1,7 @@
+/home/zadock/projects/VTK_test2/build/CMakeFiles/install/strip.dir
+/home/zadock/projects/VTK_test2/build/CMakeFiles/install/local.dir
+/home/zadock/projects/VTK_test2/build/CMakeFiles/install.dir
+/home/zadock/projects/VTK_test2/build/CMakeFiles/list_install_components.dir
+/home/zadock/projects/VTK_test2/build/CMakeFiles/rebuild_cache.dir
+/home/zadock/projects/VTK_test2/build/CMakeFiles/edit_cache.dir
+/home/zadock/projects/VTK_test2/build/CMakeFiles/vtk_test2.dir
